@@ -1,3 +1,7 @@
+Here's an updated README incorporating the details of the data files:
+
+---
+
 # Towards Fairness and Accuracy: A Comparative Study of Sovereign Credit Ratings by Global Agencies
 
 ## Abstract
@@ -16,6 +20,14 @@ Through empirical analysis and statistical modeling, this research sheds light o
 - **`markov-chain.R`**: Implements the Markov chain analysis to study the dynamics of sovereign credit rating transitions.
 - **`transition-matrix.R`**: Includes the code for constructing the Transition Probability Matrix (TPM), which quantifies the likelihood of ratings transitions.
 
+## Data Files
+
+- **`/data/global_south.xlsx`**: Contains the list of countries classified as part of the global south. This data is used to analyze potential biases in sovereign credit ratings.
+- **`/data/g20.xlsx`**: Lists the countries that are members of the G20, also used in the bias analysis within the regression models.
+- **`/data/credit-rating-transitions.xlsx`**: Provides historical credit rating data for various countries, used in constructing the Transition Probability Matrix (TPM).
+- **`/data/transition-matrix-moodys.xlsx`**: Contains the calculated transition matrix specific to Moody's sovereign credit ratings.
+- **`/data/data.xlsx`**: The master dataset that includes all factors used in the regression analysis, such as macroeconomic indicators and socio-political factors.
+
 ## Authors
 
 - **Sahil Jadhav**  
@@ -27,3 +39,7 @@ Through empirical analysis and statistical modeling, this research sheds light o
 ## Keywords
 
 Sovereign credit ratings, Global south, Macroeconomic indicators, Credit rating agencies
+
+---
+
+Again, remember to replace the "XXXXXXXXXX" with the actual contact numbers.
