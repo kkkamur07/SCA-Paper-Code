@@ -1,7 +1,3 @@
-Here's an updated README incorporating the details of the data files:
-
----
-
 # Towards Fairness and Accuracy: A Comparative Study of Sovereign Credit Ratings by Global Agencies
 
 ## Abstract
@@ -39,7 +35,3 @@ Through empirical analysis and statistical modeling, this research sheds light o
 ## Keywords
 
 Sovereign credit ratings, Global south, Macroeconomic indicators, Credit rating agencies
-
----
-
-Again, remember to replace the "XXXXXXXXXX" with the actual contact numbers.
