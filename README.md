@@ -10,6 +10,12 @@ This project report investigates the transition probabilities of sovereign credi
 
 Through empirical analysis and statistical modelling, this research sheds light on the factors driving sovereign credit rating transitions and the persistence of sticky ratings. Such insights offer valuable implications for investors, policymakers, and financial institutions in managing credit risk exposure, designing investment strategies, and formulating sovereign debt policies.
 
+## Recognition
+
+This paper was awarded the **Second Best Paper Award (Student Track)** at the IMDR International Conference 2024.
+
+![Second Best Paper Award Certificate](files/certificate.jpg)
+
 ## Repository Structure
 
 - **`regression.R`**: Contains the regression analysis code used to explore the factors influencing sovereign credit ratings.
